@@ -1,0 +1,80 @@
+{
+  "todos": [
+    {
+      "id": "7bdf",
+      "title": "react öğren",
+      "status": "important",
+      "date": "11/23/2024, 12:33:02 PM"
+    }
+  ],
+  "users": [
+    {
+      "id": "user1",
+      "name": "Yusuf Anlamaz",
+      "role": "developer",
+      "email": "yusuf@example.com"
+    },
+    {
+      "id": "user2",
+      "name": "Ali Yılmaz",
+      "role": "project manager",
+      "email": "ali@example.com"
+    },
+    {
+      "id": "user3",
+      "name": "Fatma Kara",
+      "role": "designer",
+      "email": "fatma@example.com"
+    },
+    {
+      "id": "user4",
+      "name": "Mehmet Demir",
+      "role": "tester",
+      "email": "mehmet@example.com"
+    },
+    {
+      "id": "user5",
+      "name": "Ayşe Güneş",
+      "role": "QA engineer",
+      "email": "ayse@example.com"
+    }
+  ],
+  "activity": [
+    {
+      "id": "act1",
+      "description": "Yusuf SCSS dosyalarını optimize etti.",
+      "date": "10/23/2024",
+      "user": "Yusuf Anlamaz"
+    },
+    {
+      "id": "act2",
+      "description": "Ali yeni bir React görevi atadı.",
+      "date": "10/22/2024",
+      "user": "Ali Yılmaz"
+    },
+    {
+      "id": "act3",
+      "description": "Fatma yeni tasarımlar ekledi.",
+      "date": "10/21/2024",
+      "user": "Fatma Kara"
+    },
+    {
+      "id": "act4",
+      "description": "Mehmet test senaryolarını gözden geçirdi.",
+      "date": "10/20/2024",
+      "user": "Mehmet Demir"
+    },
+    {
+      "id": "act5",
+      "description": "Ayşe kalite kontrol raporu hazırladı.",
+      "date": "10/19/2024",
+      "user": "Ayşe Güneş"
+    },
+    {
+      "id": "act6",
+      "description": "Yusuf UUID kütüphanesi araştırdı.",
+      "date": "10/18/2024",
+      "user": "Yusuf Anlamaz"
+    }
+  ]
+}
